@@ -1,5 +1,5 @@
 #  1. How To Install
-- Download raw file In Up Page Code/Download Zip
+- Download Zip FIle Check Project And Download Zip Named Minimal ADB and Fastboot
 # 2. How To Instalasion
 - Extract Zip Files And Goto Folder Main Menu And Open Folder Tutorial and Run Txt FIle Or MD File
 # 3. Complate
