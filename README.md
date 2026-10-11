@@ -1,5 +1,5 @@
 #  1. How To Install
-- 1. Download raw file In Up Page Code/Download Zip
+- Download raw file In Up Page Code/Download Zip
 # 2. How To Instalasion
 - Extract Zip Files And Goto Folder Main Menu And Open Folder Tutorial and Run Txt FIle Or MD File
 # 3. Complate
